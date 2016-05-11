@@ -11,8 +11,8 @@ public class View {
     public static final String INPUT_MONILE_NUMBER = "Input Mobile Number of the subscriber. Example: +380 044 7784567";
     public static final String INPUT_EMAIL = "Input Email adress of the subscriber";
     public static final String INPUT_SKYPE = "Input login Skype of the subscriber";
-    public static final String INPUT_GROUP = "Choose your Group of the subscriber from the list: FAMILY, WORK, FRIENDS.";
-    public static final String INPUT_INDEX = "Input index of the subscriber";
+    public static final String INPUT_GROUP = "Choose your Group of the subscriber from the list: FAMILY, WORK, FRIENDS";
+    public static final String INPUT_INDEX = "Input mail index of the subscriber";
     public static final String INPUT_CITY = "Input city of the subscriber";
     public static final String INPUT_STREET = "Input street of the subscriber. Format: street/lane/area/avenue Name of the street/lane/area/avenue";
     public static final String INPUT_NUMBER_HOME = "Input number of the home of the subscriber";
